@@ -1,0 +1,10 @@
+name: customer_support_env
+description: AI-powered customer support simulation environment
+version: 1.0
+
+tasks:
+  - easy
+  - medium
+  - hard
+
+entrypoint: inference.py
